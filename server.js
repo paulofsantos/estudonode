@@ -213,4 +213,3 @@ app.use('/api', apiRoutes);//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~para que server o coma
 
 app.listen(port);
 console.log('Magic Happens at http://localhost:'+ port);
-console.log('Test');
